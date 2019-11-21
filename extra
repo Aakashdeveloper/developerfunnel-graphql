@@ -8,3 +8,13 @@ http://localhost:4800/graphql?query=%7B%0A%20%20user(id%3A%2223%22)%7B%0A%20%20%
     age
   }
 }
+
+
+{
+  "data": {
+    "user": {
+      "firstName": "Bill",
+      "age": 20
+    }
+  }
+}
